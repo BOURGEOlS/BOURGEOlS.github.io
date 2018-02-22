@@ -1,7 +1,6 @@
 
-body { color: pink; background-color: #ffeaf4; }
-<font color= "palevioletred"> 
-  <style>
+body { color: palevioletred; background-color: #ffeaf4; }
+
     h1 {
       color: pink;
       text-shadow: 2px 2px #e82c71
@@ -17,4 +16,4 @@ body { color: pink; background-color: #ffeaf4; }
      border: 20px outset #e82c71;
      background-color: #ffeaf4
     }
-  </style>
+
