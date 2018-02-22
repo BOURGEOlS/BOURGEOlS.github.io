@@ -1,0 +1,19 @@
+
+body { color: pink; background-color: #ffeaf4; }
+  <style>
+    h1 {
+      color: pink;
+      text-shadow: 2px 2px #e82c71
+    }
+    h1: hover {
+      color: red
+    }
+    h3 {
+      color: pink;
+      text-shadow: 2px 2px #e82c71
+    }
+   body {
+     border: 20px outset #e82c71;
+     background-color: #ffeaf4
+    }
+  </style>
