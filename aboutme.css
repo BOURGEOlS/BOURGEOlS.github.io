@@ -1,5 +1,6 @@
 
-body { color: palevioletred; background-color: #ffeaf4; }
+<body> 
+{ color: palevioletred; background-color: #ffeaf4; }
     
     p, h1,h3 {
     font-family: "Arial";
@@ -20,3 +21,4 @@ body { color: palevioletred; background-color: #ffeaf4; }
      border: 20px outset #e82c71;
      background-color: #ffeaf4
     }
+</body>
