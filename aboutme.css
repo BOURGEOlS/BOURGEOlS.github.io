@@ -1,8 +1,12 @@
 
 body { color: palevioletred; background-color: #ffeaf4; }
 
-    p,h1,h3 {
+    p, {
     font-family: "Arial";
+    }
+    
+    h1,h3 {
+    font-family: "Arial" italics;
     }
 
     h1 {
