@@ -1,6 +1,10 @@
 
 body { color: palevioletred; background-color: #ffeaf4; }
 
+    p {
+    font-family: "Arial";
+    }
+
     h1 {
       color: pink;
       text-shadow: 2px 2px #e82c71
