@@ -5,6 +5,8 @@ body { color: palevioletred; background-color: #ffeaf4; }
     font-family: "Arial";
     }
 
+    p { margin: 0; }
+
     h1 {
       color: pink;
       text-shadow: 2px 2px #e82c71
